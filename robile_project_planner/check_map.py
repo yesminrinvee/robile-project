@@ -27,7 +27,7 @@ class MapChecker(Node):
         
     def map_callback(self, msg):
         self.map_received = True
-        self.get_logger().info('✓✓✓ MAP RECEIVED! ✓✓✓')
+        self.get_logger().info('MAP RECEIVED!')
         self.get_logger().info(f'Width: {msg.info.width}')
         self.get_logger().info(f'Height: {msg.info.height}')
         self.get_logger().info(f'Resolution: {msg.info.resolution}')
