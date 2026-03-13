@@ -52,7 +52,7 @@ def main(args=None):
             break
     
     if not node.map_received:
-        node.get_logger().error('❌ No map received after 5 seconds!')
+        node.get_logger().error('no map received after 5 seconds!')
     
     node.destroy_node()
     if rclpy.ok():
