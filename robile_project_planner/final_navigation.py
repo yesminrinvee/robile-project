@@ -233,7 +233,7 @@ class FinalNavigation(Node):
             self.publish_markers()
             return
 
-        # Keep republishing so RViz always shows it
+        
         self.publish_path()
         self.publish_markers()
 
@@ -317,9 +317,7 @@ class FinalNavigation(Node):
 
         self.cmd_pub.publish(cmd)
 
-    # --------------------------
-    # Utility
-    # --------------------------
+
     def normalize_angle(self, angle):
         while angle > math.pi:
             angle -= 2.0 * math.pi
