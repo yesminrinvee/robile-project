@@ -186,9 +186,8 @@ source ~/.bashrc
 
 ## Team Contributions
 
-- **Yesmin Rinvy**: Particle filter implementation, A* planner, Potential field, Exploration node, Integration testing, Video recording, Documentation
-- **[Team Member 2]**: [Contribution description]
-- **[Team Member 3]**: [Contribution description]
+- **Yesmin Akter**: Mapping, SLAM integration, Particle filter implementation, A* planner, Potential field navigation, Exploration node, Integration testing, Video recording, Testing on real robot, Report writing
+- **Luc Valet**: Particle filter implementation, Navigation stack configuration, Debugging, Testing on Simulation, Report Writing
 
 ## License
 
