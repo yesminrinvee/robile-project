@@ -132,20 +132,6 @@ rviz2
 - Add Marker display (topic `/frontiers`, color red)
 - Robot autonomously explores unknown areas
 
-## Video Demonstrations
-
-### Part 1: Path Planning
-[![Part 1 Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-*Robot navigating to goal with obstacle avoidance*
-
-### Part 2: Localization
-[![Part 2 Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-*Red particles tracking robot movement*
-
-### Part 3: Exploration
-[![Part 3 Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-*Robot autonomously exploring unknown environment*
-
 ## Code Description
 
 ### localization_node.py
