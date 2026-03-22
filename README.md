@@ -186,8 +186,8 @@ source ~/.bashrc
 
 ## Team Contributions
 
-- **Yesmin Akter**: Mapping, SLAM integration, Particle filter implementation, A* planner, Potential field navigation, Exploration node, Integration testing, Video recording, Testing on real robot, Report writing
-- **Luc Valet**: Particle filter implementation, Navigation stack configuration, Debugging, Testing on Simulation, Report Writing
+- **Yesmin Akter**: Mapping, SLAM integration, Particle filter implementation, A* planner, Potential field navigation, Exploration node, Integration testing, Debugging, Video recording, Testing on real robot, Report writing
+- **Luc Valet**: Particle filter implementation, A* path planner Navigation stack configuration, Testing on Simulation, Report Writing
 
 ## License
 
